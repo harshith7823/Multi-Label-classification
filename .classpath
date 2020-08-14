@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/dom4j-1.6.jar"/>
+	<classpathentry kind="lib" path="lib/jama-1.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/java-cup-0.11a.jar"/>
+	<classpathentry kind="lib" path="lib/jfilechooser-bookmarks-0.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/meka-1.9.0.jar"/>
+	<classpathentry kind="lib" path="lib/moa-2014.04.jar"/>
+	<classpathentry kind="lib" path="lib/mst-4.0.jar"/>
+	<classpathentry kind="lib" path="lib/mulan-1.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/pentaho-package-manager-1.0.8.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-schemas-3.8-beta3-20110606.jar"/>
+	<classpathentry kind="lib" path="lib/sizeofag-1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/snowball-20051019.jar"/>
+	<classpathentry kind="lib" path="lib/trove4j-3.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/weka-dev-3.7.12.jar"/>
+	<classpathentry kind="lib" path="lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

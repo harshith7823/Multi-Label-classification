@@ -1,0 +1,29 @@
+bugid
+Summary
+Status
+Whiteboard
+Keywords
+Product
+Component
+Version
+Platform
+Importance
+Target Milestone
+Assigned To
+QA Contact
+Mentors
+URL
+Depends on
+Blocks
+Reported
+Modified
+CC List
+See Also
+Crash Signature
+QA Whiteboard
+Iteration
+Points
+Has Regression Range
+Has STR
+Project Flags
+Tracking Flags
